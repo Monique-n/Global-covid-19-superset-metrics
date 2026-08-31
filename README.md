@@ -33,7 +33,7 @@ The underlying datasource is built on daily aggregated global COVID-19 records.
 
 ---
 
-## 🛠️ Dashboard Architecture & Visualizations
+##  Dashboard Architecture & Visualizations
 
 1. **Executive KPI Header:** High-level single-value callouts for Global Confirmed ($677\text{M}$), Active Cases ($670\text{M}$), and Total Deaths ($6.88\text{M}$).
 2. **Top 10 Most Affected Countries:** Horizontal bar visual ranking countries by cumulative case totals to identify high-impact geographical zones.
