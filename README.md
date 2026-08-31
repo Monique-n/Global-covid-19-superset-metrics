@@ -4,7 +4,7 @@ An enterprise-ready BI surveillance dashboard built with **Apache Superset**, **
 
 ---
 
-## 📊 Executive Summary & Metrics Key
+##  Executive Summary & Metrics Key
 
 | Metric | Description |
 | :--- | :--- |
